@@ -108,21 +108,6 @@
   </url>
   
   <url>
-    <loc>https://elenapvv.github.io/ru/project/my-personal-project/</loc>
-    <lastmod>2020-11-29T20:33:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://elenapvv.github.io/project/my-personal-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://elenapvv.github.io/ru/project/my-personal-project/"
-                />
-  </url>
-  
-  <url>
     <loc>https://elenapvv.github.io/ru/project/</loc>
     <lastmod>2020-11-29T20:33:00+03:00</lastmod>
     <xhtml:link
@@ -134,6 +119,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://elenapvv.github.io/ru/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://elenapvv.github.io/ru/project/my-personal-project/</loc>
+    <lastmod>2020-11-29T20:33:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://elenapvv.github.io/project/my-personal-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://elenapvv.github.io/ru/project/my-personal-project/"
                 />
   </url>
   
@@ -153,21 +153,6 @@
   </url>
   
   <url>
-    <loc>https://elenapvv.github.io/ru/post/my-article-name/</loc>
-    <lastmod>2020-11-29T20:27:05+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://elenapvv.github.io/post/my-article-name/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://elenapvv.github.io/ru/post/my-article-name/"
-                />
-  </url>
-  
-  <url>
     <loc>https://elenapvv.github.io/ru/post/</loc>
     <lastmod>2020-11-29T20:27:05+03:00</lastmod>
     <xhtml:link
@@ -179,6 +164,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://elenapvv.github.io/ru/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://elenapvv.github.io/ru/post/my-article-name/</loc>
+    <lastmod>2020-11-29T20:27:05+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://elenapvv.github.io/post/my-article-name/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://elenapvv.github.io/ru/post/my-article-name/"
                 />
   </url>
   

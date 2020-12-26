@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Academic</title>
+    <title>2 on Academic</title>
     <link>https://elenapvv.github.io/ru/publication-type/2/</link>
-      <atom:link href="https://elenapvv.github.io/ru/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
-    <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Sun, 29 Nov 2020 21:31:16 +0300</lastBuildDate>
-    <image>
-      <url>https://elenapvv.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>2</title>
-      <link>https://elenapvv.github.io/ru/publication-type/2/</link>
-    </image>
-    
+    <description>Recent content in 2 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 29 Nov 2020 21:31:16 +0300</lastBuildDate><atom:link href="https://elenapvv.github.io/ru/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Trees As Indicators Of The Urban Environment State</title>
+      <title>Деревья как показатели состояния городской среды</title>
       <link>https://elenapvv.github.io/ru/publication/english-article/</link>
       <pubDate>Sun, 29 Nov 2020 21:31:16 +0300</pubDate>
+      
       <guid>https://elenapvv.github.io/ru/publication/english-article/</guid>
       <description></description>
     </item>
